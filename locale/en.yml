@@ -1,0 +1,11 @@
+allnetwork-oauth-allnetwork:
+
+  admin:
+    allnetwork_settings:
+      title: "AllNetwork Settings"
+      client_id_label: "Client ID"
+      client_secret_label: "Client Secret"
+
+  forum:
+    log_in:
+      with_allnetwork_button: "Login with AllNetwork"
