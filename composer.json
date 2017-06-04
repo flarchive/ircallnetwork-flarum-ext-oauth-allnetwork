@@ -1,0 +1,33 @@
+{
+    "name": "ircallnetwork/flarum-ext-oauth-allnetwork",
+    "description": "Allow users to log in with AllNetwork Account.",
+    "type": "flarum-extension",
+    "keywords": ["authentication"],
+    "license": "GPL-3.0+",
+    "version": "v0.1.0-beta.8.14",
+    "authors": [
+        {
+            "name": "Prastowo Agung Widodo",
+            "email": "agung@transformatika.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.5",
+        "league/oauth2-client": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AllNetwork\\Auth\\AllNetwork\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "AllNetwork",
+            "icon": {
+                "name": "hashtag",
+                "backgroundColor": "#e7672e",
+                "color": "#fff"
+            }
+        }
+    }
+}
