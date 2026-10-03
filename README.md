@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of ircallnetwork/flarum-ext-oauth-allnetwork.** Not for installation: use [Packagist](https://packagist.org/packages/ircallnetwork/flarum-ext-oauth-allnetwork) or the [upstream repository](https://github.com/ircallnetwork/flarum-ext-oauth-allnetwork).
 
-**0** versions archived · Latest: [`v0.1.0-beta.8.14`](https://github.com/flarchive/ircallnetwork-flarum-ext-oauth-allnetwork/tree/archive/v0.1.0-beta.8.14) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.5`
+**5** versions archived · Latest: [`v0.1.0-beta.8.14`](https://github.com/flarchive/ircallnetwork-flarum-ext-oauth-allnetwork/tree/archive/v0.1.0-beta.8.14) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.8.11` | 2017-05-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/ircallnetwork-flarum-ext-oauth-allnetwork/tree/archive/v0.1.0-beta.8.11) |
+| `v0.1.0-beta.8.12` | 2017-05-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/ircallnetwork-flarum-ext-oauth-allnetwork/tree/archive/v0.1.0-beta.8.12) |
+| `v0.1.0-beta.8.13` | 2017-05-30 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/ircallnetwork-flarum-ext-oauth-allnetwork/tree/archive/v0.1.0-beta.8.13) |
+| `v0.1.0-beta.8.14` | 2017-06-04 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/ircallnetwork-flarum-ext-oauth-allnetwork/tree/archive/v0.1.0-beta.8.14) |
+| `v0.1.0-beta.8.7` | 2017-05-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/ircallnetwork-flarum-ext-oauth-allnetwork/tree/archive/v0.1.0-beta.8.7) |
 
 Catalog entry: [packages/ircallnetwork-flarum-ext-oauth-allnetwork.json](https://github.com/flarchive/archive-index/blob/main/packages/ircallnetwork-flarum-ext-oauth-allnetwork.json)
 
